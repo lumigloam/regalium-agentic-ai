@@ -1,0 +1,1 @@
+# Placeholder for brochure_generator.py

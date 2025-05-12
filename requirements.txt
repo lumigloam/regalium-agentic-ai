@@ -1,0 +1,13 @@
+streamlit
+langchain
+openai
+faiss-cpu
+pandas
+SQLAlchemy
+python-dotenv
+PyMuPDF
+scikit-learn
+matplotlib
+pdf2image
+nltk
+textblob
